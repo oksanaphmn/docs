@@ -1,3 +1,5 @@
+[![Twitter](https://img.shields.io/twitter/follow/cursor_ai)](https://x.com/cursor_ai)
+
 # Cursor Docs
 
 This repo contains the source code for [Cursor's Documentation](https://docs.cursor.com).
